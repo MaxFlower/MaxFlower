@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**MaxFlower/MaxFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maksim!
 
-Here are some ideas to get you started:
+- 🔭 I’m a software engineer with focus on Frontend.
+- 🌱 I’m curious to learn System Design and Languages 🇬🇧 🇧🇷 🇪🇪 🇩🇪.
+- 🤔 I’m looking for people who like technologies.
+- 💬 Please catch me up if you have any questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MaxFlower&show_icons=true&theme=onedark&line_height=33" alt="statistic">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFlower&hide_langs_below=.25&theme=onedark" alt="top-languages">
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align = "center">
+  <a href="mailto:maxtsvetapple@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/maksim-tsvetkov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/MaxFlower" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
