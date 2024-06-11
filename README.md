@@ -21,5 +21,6 @@ I'm Maksim!
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![download](https://github.com/MaxFlower/MaxFlower/assets/10515741/b58e88c1-2a74-4fc7-bbc1-77e7891da1f2)
-
+<p>
+    <img src ="https://github.com/MaxFlower/MaxFlower/assets/10515741/b58e88c1-2a74-4fc7-bbc1-77e7891da1f2" alt="top-languages" width="360px">
+</p>
